@@ -4,7 +4,7 @@
  <title>Asko</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2021-04-24T15:21:29+09:00</updated>
+ <updated>2021-04-24T16:00:20+09:00</updated>
  <id></id>
  <author>
    <name></name>
@@ -13,10 +13,10 @@
 
  
  <entry>
-   <title>Difference between font formats</title>
-   <link href="/2019/08/31/difference-between-font-formats"/>
-   <updated>2019-08-31T00:00:00+09:00</updated>
-   <id>/2019/08/31/difference-between-font-formats</id>
+   <title>java</title>
+   <link href="/2021/04/24/java"/>
+   <updated>2021-04-24T00:00:00+09:00</updated>
+   <id>/2021/04/24/java</id>
    <content type="html">&lt;h1 id=&quot;h1&quot;&gt;h1&lt;/h1&gt;
 
 &lt;h2 id=&quot;h2&quot;&gt;h2&lt;/h2&gt;
@@ -373,7 +373,7 @@
  </entry>
  
  <entry>
-   <title>CSS hacks you may not know</title>
+   <title>java 2021년 4월 24일</title>
    <link href="/2014/05/12/css-hacks-you-may-not-know"/>
    <updated>2014-05-12T00:00:00+09:00</updated>
    <id>/2014/05/12/css-hacks-you-may-not-know</id>

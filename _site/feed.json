@@ -16,8 +16,8 @@
             "id": "/2021/05/13/java",
             "title": "환급하기",
             "summary": "달러,유로 환급하기",
-            "content_text": "’’’’’import java.util.Scanner;public static void main(String[] args){Scanner imput = new Scanner(System.in);int basePay = input.nextInt();int workingHours = input.nextInt();int pay = basePay * workingHours;System.out.println(pay);}’’’’’",
-            "content_html": "<p>’’’’’</p><p>import java.util.Scanner;public static void main(String[] args){</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>Scanner imput = new Scanner(System.in);int basePay = input.nextInt();int workingHours = input.nextInt();int pay = basePay * workingHours;System.out.println(pay);</code></pre></div></div><p>}</p><p>’’’’’</p>",
+            "content_text": "’’’’’import java.util.Scanner;public static void main(String[] args){Scanner imput = new Scanner(System.in);int basePay = input.nextInt();int workingHours = input.nextInt();int pay = basePay * workingHours;System.out.println(pay);}’’’’’public class Hello {    public static void main(String[] args){    System.out.println(\"hello world\");;} }’’’’",
+            "content_html": "<p>’’’’’</p><p>import java.util.Scanner;public static void main(String[] args){</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>Scanner imput = new Scanner(System.in);int basePay = input.nextInt();int workingHours = input.nextInt();int pay = basePay * workingHours;System.out.println(pay);</code></pre></div></div><p>}</p><p>’’’’’</p><p>public class Hello {    public static void main(String[] args){</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>    System.out.println(\"hello world\");;} }</code></pre></div></div><p>’’’’</p>",
             "url": "/2021/05/13/java",
             
             

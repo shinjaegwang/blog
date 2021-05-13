@@ -16,8 +16,8 @@
             "id": "/2021/05/13/java",
             "title": "환급하기",
             "summary": "달러,유로 환급하기",
-            "content_text": "’’’’’public static void main(String[] args){}’’’’’",
-            "content_html": "<p>’’’’’public static void main(String[] args){</p><p>}</p><p>’’’’’</p>",
+            "content_text": "’’’’’import java.util.Scanner;public static void main(String[] args){Scanner imput = new Scanner(System.in);int basePay = input.nextInt();}’’’’’",
+            "content_html": "<p>’’’’’</p><p>import java.util.Scanner;public static void main(String[] args){</p><div class=\"language-plaintext highlighter-rouge\"><div class=\"highlight\"><pre class=\"highlight\"><code>Scanner imput = new Scanner(System.in);int basePay = input.nextInt();</code></pre></div></div><p>}</p><p>’’’’’</p>",
             "url": "/2021/05/13/java",
             
             

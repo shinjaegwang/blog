@@ -4,7 +4,7 @@
  <title>Asko</title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2021-05-13T15:37:39+09:00</updated>
+ <updated>2021-05-13T15:41:02+09:00</updated>
  <id></id>
  <author>
    <name></name>
@@ -17,8 +17,14 @@
    <link href="/2021/05/13/java"/>
    <updated>2021-05-13T00:00:00+09:00</updated>
    <id>/2021/05/13/java</id>
-   <content type="html">&lt;p&gt;’’’’’
+   <content type="html">&lt;p&gt;’’’’’&lt;/p&gt;
+
+&lt;p&gt;import java.util.Scanner;
 public static void main(String[] args){&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Scanner imput = new Scanner(System.in);
+int basePay = input.nextInt();
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;}&lt;/p&gt;
 
